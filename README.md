@@ -1,5 +1,5 @@
-# Project_CIP02
-The Backpack Clinic — Field-based dysglycemia triage
+# The Backpack Clinic  (CIP_FS2026_G206)
+Field-based dysglycemia triage
 HSLU MSc Applied Data Science & AI · CIP02 (HS 2026)
 
 Can measurements a field health worker takes from a backpack (age, sex, BMI,
