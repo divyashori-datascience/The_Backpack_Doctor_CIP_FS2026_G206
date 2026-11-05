@@ -1,4 +1,4 @@
-# The Backpack Clinic  (CIP_FS2026_G206)
+# The Backpack Doctor  (CIP_FS2026_G206)
 Field-based dysglycemia triage
 HSLU MSc Applied Data Science & AI · CIP02 (HS 2026)
 
