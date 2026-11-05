@@ -12,7 +12,7 @@ should the doctor trust that flag in their county and for this patient?
 |---|---|
 | `CIP_01_acquisition_cleaning_eda.ipynb` | Acquisition (pynhanes, codebook scraping, Selenium search, CDC PLACES API), cleaning, EDA, frozen analytic sample |
 | `CIP_02_modelling.ipynb` | RQ1 model performance, RQ2 county-level PPV, RQ3 subgroup performance |
-| `visualizer.py` | Streamlit triage dashboard *(in progress)* |
+| `visualizer.py` | Streamlit triage dashboard
 | `data/processed/` | Analytic sample (`nhanes_analytic.csv`, 4,613 × 15), data dictionary, county prevalence, acquisition metadata, result tables (`rq1_*`, `rq2_*`, `rq3_*`) |
 | `models/` | Fitted triage model (`triage_model.joblib`) for the dashboard |
 | `data/raw/` | Raw PLACES JSON and rendered Selenium HTML (NHANES `.xpt` files are re-downloaded by notebook 01) |
