@@ -40,7 +40,7 @@ Selenium needs Google Chrome installed; the driver is downloaded automatically.
 | RQ | Answer |
 |---|---|
 | RQ1 | Logistic regression on age, sex, waist and blood pressure: cross-validated AUC 0.725, well calibrated; random forest and gradient boosting are no better. At a 26% risk threshold it catches 80% of cases. |
-| RQ2 | With the same model, the chance that a positive result is correct ranges from 18% to 73% across 2,957 US counties (median 42%). |
+| RQ2 | With the same model, the chance that a positive result is correct ranges from 18% to 73% across 2,956 US counties (median 42%). |
 | RQ3 | Sensitivity is 0.91 for White adults but 0.57–0.71 for Asian, Mexican American, Black and Other Hispanic adults; the gap persists after adjusting for age. |
 
 ## Course methods used
